@@ -6,4 +6,4 @@
 
 ![image](https://github.com/mangorr/SE-experiment1/blob/master/trees.JPG)
 
-​                                                                                                                                                                                    
+![image](https://github.com/mangorr/SE-experiment1/blob/master/result.JPG)                                                                                                                                                                                
